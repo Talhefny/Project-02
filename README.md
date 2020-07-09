@@ -1,7 +1,7 @@
 ## Project 02
 This is the submission of Project 02 for PGP AIML: Module 02 Supervised Learning
 
-## Proejct Name:
+## Proejct Name
 Thera Bank Personal Loan Campaign
 
 ## General Note
