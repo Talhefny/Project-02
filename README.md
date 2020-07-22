@@ -1,8 +1,8 @@
-## Project 02
-This is the submission of Project 02 for PGP AIML: Module 02 Supervised Learning
+## Project 02A
+This is the submission of Project 02A for PGP AIML: Module 02 Supervised Learning
 
 ## Project Name
-Thera Bank Personal Loan Campaign
+Attrition Analysis
 
 ## General Note
 This repository records all the project works that I did in my PGP-AIML program with UT Austin and Great Learning
